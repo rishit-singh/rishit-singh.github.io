@@ -1,0 +1,1 @@
+/Users/rishit/src/repos/portfolio/bin/Release/net6.0/publish/web.config

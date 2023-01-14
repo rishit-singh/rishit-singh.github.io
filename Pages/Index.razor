@@ -1,0 +1,45 @@
+﻿@page "/"
+@using portfolio
+
+<PageTitle>Coderish's Homepage </PageTitle>
+
+<Grid Rows="2" Columns="3">
+    @for (uint x = 0; x < 10; x++)
+    {
+        @for (uint y = 0; y < 10; y++)
+        {
+            <GridItem RowIndex="@x" ColumnIndex="@y">
+                <TextBlock FontColor="(Color)Random.Shared.Next(0, 3)" Visible="Visibility">
+                    Text
+                </TextBlock>
+            </GridItem>
+        }
+    }
+    @* <GridItem RowIndex="0" ColumnIndex="1"> *@
+    @*     <TextBlock FontColor="Color.Blue" Visible="Visibility"> *@
+    @*         Text *@
+    @*     </TextBlock> *@
+    @* </GridItem> *@
+    @* <GridItem RowIndex="1" ColumnIndex="0"> *@
+    @*     <button onclick="@Toggle"> *@
+    @*         @ToggleStrings[Visibility ? 1 : 0] *@
+    @*     </button> *@
+    @* </GridItem> *@
+</Grid>
+
+@code
+{
+    public static string[] ToggleStrings = new string[]
+    {
+        "Show",
+        "Hide"
+    };
+    
+    public bool Visibility = true; 
+    
+    public void Toggle() { this.Visibility = !this.Visibility; }
+    
+}
+
+
+

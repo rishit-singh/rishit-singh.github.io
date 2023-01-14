@@ -1,0 +1,55 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = browser
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = true
+build_property.IncludeAllContentForSelfExtract = 
+build_property.RootNamespace = portfolio
+build_property.RootNamespace = portfolio
+build_property.ProjectDir = /Users/rishit/src/repos/portfolio/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/rishit/src/repos/portfolio
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/rishit/src/repos/portfolio/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rishit/src/repos/portfolio/Shared/Grid.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0dyaWQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rishit/src/repos/portfolio/Shared/GridItem.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL0dyaWRJdGVtLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rishit/src/repos/portfolio/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rishit/src/repos/portfolio/Shared/TextBlock.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1RleHRCbG9jay5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rishit/src/repos/portfolio/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/rishit/src/repos/portfolio/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-o5esb17kx2
+
+[/Users/rishit/src/repos/portfolio/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-04v6n1ipw2
+
+[/Users/rishit/src/repos/portfolio/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-r0dz2js6ll
